@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Nucleus Store 👋</h1>
+<h1 align="center">Welcome to Bitmart Store 👋</h1>
 <p>
 </p>
 
@@ -18,8 +18,8 @@ npm start
 npm run build
 ```
 
-## Preview
-<img width="1440" alt="Screenshot 2022-07-12 at 12 06 16 AM" src="https://user-images.githubusercontent.com/76595361/178334525-1dbd44ca-2c52-4019-8700-4a7906e143ed.png">
+<!-- ## Preview
+<img width="1440" alt="Screenshot 2022-07-12 at 12 06 16 AM" src="https://user-images.githubusercontent.com/76595361/178334525-1dbd44ca-2c52-4019-8700-4a7906e143ed.png"> -->
 
 
 
