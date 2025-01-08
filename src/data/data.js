@@ -51,25 +51,6 @@ const heroCards = [
 ];
 
 const socials = [
-  {
-    id: 'github',
-    url: 'https://github.com/avinashprj',
-    logo: <BsGithub className="icon   icon-link" />,
-  },
-  {
-    id: 'twitter',
-    url: 'https://twitter.com/avinash_prj',
-    logo: <BsTwitter className="icon  m-left-small icon-link" />,
-  },
-  {
-    id: 'linkedin',
-    url: 'https://www.linkedin.com/in/avinashprajapati914/',
-    logo: <FaLinkedinIn className="icon  m-left-small icon-link" />,
-  },
-  {
-    id: 'instagram',
-    url: 'https://www.instagram.com/avinashprj/',
-    logo: <BsInstagram className="icon  m-left-small icon-link" />,
-  },
+
 ];
 export { heroImages, heroCards, socials };
